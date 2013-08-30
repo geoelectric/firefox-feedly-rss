@@ -2,7 +2,7 @@
   "name": "feedly-rss",
   "fullName": "RSS Handler for Feedly",
   "id": "jid1-S0p3wIGwpiBOSQ",
-  "description": "Adds Feedly Cloud Reader as an option in Firefox's Subscribe dialog",
+  "description": "Adds Feedly Cloud as an option in Firefox's Subscribe dialog",
   "author": "Geo Mealer",
   "homepage": "https://github.com/geoelectric/firefox-feedly-rss",
   "license": "MPL 2.0",
